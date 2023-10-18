@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/mariana-reis/app-code-bank/domain/model"
+	"github.com/mariana-reis/app.code.bank/domain/model"
 	uuid "github.com/satori/go.uuid"
 
 	"github.com/stretchr/testify/require"

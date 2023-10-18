@@ -3,8 +3,8 @@ package grpc
 import (
 	"context"
 
-	"github.com/mariana-reis/app-code-bank/application/grpc/pb"
-	"github.com/mariana-reis/app-code-bank/application/usecase"
+	"github.com/mariana-reis/app.code.bank/application/grpc/pb"
+	"github.com/mariana-reis/app.code.bank/application/usecase"
 )
 
 type PixGrpcService struct {

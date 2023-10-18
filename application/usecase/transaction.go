@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/mariana-reis/app-code-bank/domain/model"
+	"github.com/mariana-reis/app.code.bank/domain/model"
 )
 
 type TransactionUseCase struct {

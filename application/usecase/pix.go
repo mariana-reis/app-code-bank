@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/mariana-reis/app-code-bank/domain/model"
+import "github.com/mariana-reis/app.code.bank/domain/model"
 
 type PixUseCase struct {
 	PixKeyRepository model.PixKeyRepositoryInterface

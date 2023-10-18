@@ -5,7 +5,7 @@ import (
 
 	uuid "github.com/satori/go.uuid"
 
-	"github.com/mariana-reis/app-code-bank/domain/model"
+	"github.com/mariana-reis/app.code.bank/domain/model"
 	"github.com/stretchr/testify/require"
 )
 

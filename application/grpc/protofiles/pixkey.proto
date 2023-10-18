@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package github.com.marianareis.appcodebank;
+package github.com.marianareis.app.code.bank;
 
 option go_package = "/protofiles;pb";
 

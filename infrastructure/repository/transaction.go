@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/jinzhu/gorm"
-	"github.com/mariana-reis/app-code-bank/domain/model"
+	"github.com/mariana-reis/app.code.bank/domain/model"
 )
 
 type TransactionRepositoryDb struct {

@@ -9,7 +9,7 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
-	"github.com/mariana-reis/app-code-bank/domain/model"
+	"github.com/mariana-reis/app.code.bank/domain/model"
 	_ "gorm.io/driver/sqlite"
 )
 

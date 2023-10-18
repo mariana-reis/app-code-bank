@@ -4,8 +4,8 @@ import (
 	"os"
 
 	"github.com/jinzhu/gorm"
-	"github.com/mariana-reis/app-code-bank/application/grpc"
-	"github.com/mariana-reis/app-code-bank/infrastructure/db"
+	"github.com/mariana-reis/app.code.bank/application/grpc"
+	"github.com/mariana-reis/app.code.bank/infrastructure/db"
 )
 
 var database *gorm.DB
